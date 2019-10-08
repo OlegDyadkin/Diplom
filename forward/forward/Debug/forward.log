@@ -1,0 +1,9 @@
+﻿  forward.cpp
+c:\users\олег\desktop\2019\forward\forward\forward.cpp(54): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\олег\desktop\2019\forward\forward\forward.cpp(39): warning C4101: ImInv: неиспользованная локальная переменная
+c:\users\олег\desktop\2019\forward\forward\forward.cpp(39): warning C4101: ReInv: неиспользованная локальная переменная
+c:\users\олег\desktop\2019\forward\forward\forward.cpp(38): warning C4101: resOfInputFuncAfterInverse: неиспользованная локальная переменная
+c:\users\олег\desktop\2019\forward\forward\forward.cpp(53): warning C4101: phi: неиспользованная локальная переменная
+c:\users\олег\desktop\2019\forward\forward\forward.cpp(48): warning C4101: Pn: неиспользованная локальная переменная
+c:\users\олег\desktop\2019\forward\forward\forward.cpp(52): warning C4101: C: неиспользованная локальная переменная
+  forward.vcxproj -> C:\Users\Олег\Desktop\2019\forward\Debug\forward.exe

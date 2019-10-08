@@ -1,0 +1,5 @@
+﻿  Inverse.cpp
+c:\users\олег\desktop\2019\inverse\inverse\inverse.cpp(19): warning C4101: Re: неиспользованная локальная переменная
+c:\users\олег\desktop\2019\inverse\inverse\inverse.cpp(29): warning C4101: mag: неиспользованная локальная переменная
+c:\users\олег\desktop\2019\inverse\inverse\inverse.cpp(19): warning C4101: Im: неиспользованная локальная переменная
+  Inverse.vcxproj -> C:\Users\Олег\Desktop\2019\Inverse\Debug\Inverse.exe
